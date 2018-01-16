@@ -1,0 +1,28 @@
+.box{
+    position: relative;
+    background: #000;
+    margin: 0 auto;
+}
+.item{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background: lightyellow;
+    transition: all .3s ease;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
