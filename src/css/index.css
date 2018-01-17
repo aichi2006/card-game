@@ -10,7 +10,12 @@
     background: lightyellow;
     transition: all .3s ease;
 }
-
+button{
+    width: 160px;
+    height: 38px;
+    display: block;
+    margin: 60px auto 0;
+}
 
 
 
